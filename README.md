@@ -2,7 +2,7 @@
 
 I'm a student at the University of Nevada, Reno majoring in Computer Science and Discrete Math.
 
-- 🌱 I’m currently learning Pattern Recognition, Deep Learning, and Algebraic Combinatorics.
+- 🌱 My favorite classes I'm currently taking are Image Processing and Data Mining.
 - 👨‍💻 I'm most familiar with C++ and Python.
 - 😄 Pronouns: He/Him
 - 📫 How to reach me:
